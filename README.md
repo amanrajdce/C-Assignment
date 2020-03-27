@@ -1,2 +1,2 @@
 # CSE12
-Repository for CSE 12 projects for PA6
+C Assignment, implementation of custom stack in C.
